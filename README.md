@@ -162,8 +162,10 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" /> -->
+
+<img src="./github-user-stats.svg" width="600"/>
 
 </div>
 
@@ -173,8 +175,8 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aditya-kg&theme=darkhub&column=4&margin-w=10&margin-h=10&no-frame=true" />
-
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=aditya-kg&theme=darkhub&column=4&margin-w=10&margin-h=10&no-frame=true" /> -->
+<img src="./github-trophies.svg" width="800"/>
 </div>
 
 <details>
@@ -191,7 +193,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 </details>
 
-<br/>
+<!-- <br/>
 
 ## 🧊 Contribution Calendar
 
@@ -201,7 +203,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <br/>
 
-<div align="center">
+<div align="center"> -->
 
 ### 📫 Let's Connect
 
