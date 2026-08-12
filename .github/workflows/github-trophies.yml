@@ -18,9 +18,8 @@ jobs:
 
       - name: Generate trophy SVG
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        env:
-          GITHUB_TOKEN1: ${{ github.token }}
         with:
+          token: ${{ github.token }}
           username: aditya-kg
           file: github-trophies.svg
           theme: darkhub
