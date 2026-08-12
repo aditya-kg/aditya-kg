@@ -162,7 +162,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=stars,issues" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 
 </div>
@@ -198,8 +198,6 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 <div align="center">
 <img src="https://raw.githubusercontent.com/aditya-kg/aditya-kg/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
-
-> ⚠️ This animation needs a one-time GitHub Action set up in your profile repo — see setup notes below.
 
 <br/>
 
