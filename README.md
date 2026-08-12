@@ -176,7 +176,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 <div align="center">
 
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=aditya-kg&theme=darkhub&column=4&margin-w=10&margin-h=10&no-frame=true" /> -->
-<img src="./github-trophies.svg" width="800"/>
+<img src="./github-trophies.svg" width="800" alt="GitHub Trophies" />
 </div>
 
 <details>
