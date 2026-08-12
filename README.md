@@ -49,6 +49,7 @@
 
 <details>
 <summary><b>📖 Abstract summaries (click to expand)</b></summary>
+  
 <br/>
 
 **Logifus (EACL 2026)** — A structure-preserving logical obfuscation framework that strips away surface-level familiarity, forcing models to rely on underlying logical structure rather than linguistic shortcuts; degrades LLM performance by up to 48.7% and suppresses late-layer confidence by 50–80%.
@@ -154,7 +155,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 </details>
 
-<br/>
+<!-- <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:1f2937&height=3&section=header" width="100%"/>
 
@@ -165,9 +166,9 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" /> -->
 
-<img src="./github-user-stats.svg" width="600"/>
+<!-- <img src="./github-user-stats.svg" width="600"/> -->
 
-</div>
+<!-- </div> --> 
 
 <br/>
 
