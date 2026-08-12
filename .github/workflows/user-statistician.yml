@@ -1,44 +1,32 @@
-name: Generate GitHub Trophies
+name: GitHub-User-Statistician
 
 on:
   schedule:
-    # Refresh once a week
-    - cron: "0 3 * * 1"
+    - cron: "30 21 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  generate-trophies:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-stats-svg
+
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate GitHub stats SVG
+        uses: cicirello/user-statistician@v1
         with:
-          username: aditya-kg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          file: github-trophies.svg
-          theme: darkhub
-          max-cols: 4
-          margin-width: 10
-          margin-height: 10
-
-      - name: Commit trophy SVG
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add github-trophies.svg
-
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-            exit 0
-          fi
-
-          git commit -m "chore: update GitHub trophies"
-          git push
+          image-file: github-user-stats.svg
+          colors: dark
+          include-title: true
+          custom-title: "GitHub Statistics"
+          show-border: true
+          border-radius: 8
+          animated-language-chart: true
+          language-animation-speed: 12
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
