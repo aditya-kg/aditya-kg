@@ -162,7 +162,7 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aditya-kg&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide=prs,issues&include_all_commits=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-kg&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1" />
 
 </div>
@@ -193,10 +193,10 @@ May 2024 – Sep 2024   IIT Kanpur                                 Summer Resear
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🧊 Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/aditya-kg/aditya-kg/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 <br/>
