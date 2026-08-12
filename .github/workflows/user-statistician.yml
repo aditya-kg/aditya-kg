@@ -1,0 +1,32 @@
+name: GitHub-User-Statistician
+
+on:
+  schedule:
+    - cron: "30 21 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-stats-svg
+    steps:
+      - uses: actions/checkout@v5
+      - uses: cicirello/user-statistician@v1
+        with:
+          template: "light"
+          category-label-color: "6366f1"
+          category-value-color: "cbd5e1"
+          category-title-color: "6366f1"
+          background-color: "0d1117"
+          border-color: "1f2937"
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "chore: update github stats svg"; then
+            git push
+          fi
