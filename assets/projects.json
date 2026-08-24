@@ -10,8 +10,8 @@
       "description": "Interactive website for exploring logical obfuscation and number-series reasoning benchmarks."
     },
     {
-      "repo": "Palweb",
-      "description": "College web platform built with Flask and Streamlit, combining a practical web interface with data-driven utilities."
+      "repo": "OCR-project",
+      "description": "Practical OCR application for extracting and processing text from images."
     },
     {
       "repo": "Real-Time-Query_Expansion_amd_Topic-Tagging",
