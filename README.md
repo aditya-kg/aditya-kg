@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Avatar -->
-<img src="https://github.com/aditya-kg.png?size=512" width="220" alt="Aditya Kumar Guru">
+<img src="./assets/portrait.svg"
+     width="420"
+     alt="Aditya Kumar Guru dot-matrix portrait" />
 
 <br>
 
