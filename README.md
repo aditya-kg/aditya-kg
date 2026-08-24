@@ -118,11 +118,11 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 
 ## `~/` the numbers
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
-</picture>
+</picture> -->
 
 <br><br>
 
