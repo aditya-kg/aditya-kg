@@ -77,14 +77,14 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="400" alt="research and engineering radar">
+  <img src="assets/radar-dark.svg" width="400" alt="research radar">
 </picture>
 </td>
 <td width="50%" align="center" valign="middle">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/research-footprint-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/research-footprint-light.svg">
-  <img src="assets/research-footprint-dark.svg" width="400" alt="research footprint radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/engineering-radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/engineering-radar-light.svg">
+  <img src="assets/research-footprint-dark.svg" width="400" alt="Applied AI radar">
 </picture>
 </td>
 </tr>
