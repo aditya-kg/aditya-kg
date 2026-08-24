@@ -87,11 +87,11 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 </td>
 <td width="50%" align="center" valign="middle">
 
-<!-- Live radar generated from actual language usage across public repositories -->
+<!-- Static research footprint: no API dependency, so it always renders. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="400" alt="GitHub language radar">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/research-footprint-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/research-footprint-light.svg">
+  <img src="assets/research-footprint-dark.svg" width="400" alt="research footprint">
 </picture>
 
 </td>
@@ -220,11 +220,11 @@ May 2024 – Sep 2024   IIT Kanpur                        Summer Research Intern
   </a>
 </td>
 <td width="50%">
-  <a href="https://github.com/aditya-kg/OCR-project">
+  <a href="https://github.com/aditya-kg/Real-Time-Query_Expansion_amd_Topic-Tagging">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/card-OCR-project-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/card-OCR-project-light.svg">
-      <img src="assets/card-OCR-project-dark.svg" width="420" alt="OCR-project">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-Real-Time-Query_Expansion_amd_Topic-Tagging-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/card-Real-Time-Query_Expansion_amd_Topic-Tagging-light.svg">
+      <img src="assets/card-Real-Time-Query_Expansion_amd_Topic-Tagging-dark.svg" width="420" alt="Real-Time-Query Expansion and Topic Tagging">
     </picture>
   </a>
 </td>
@@ -238,7 +238,7 @@ May 2024 – Sep 2024   IIT Kanpur                        Summer Research Intern
 | **[ObfusQAte](https://github.com/aditya-kg/ObfusQAte)** | LLM robustness under semantic obfuscation |
 | **[LogiFus-NumSeries-Website](https://github.com/aditya-kg/LogiFus-NumSeries-Website)** | Interactive reasoning / benchmark explorer |
 | **[Palweb](https://github.com/aditya-kg/Palweb)** | Flask + Streamlit college web platform |
-| **[OCR-project](https://github.com/aditya-kg/OCR-project)** | Practical OCR application |
+| **[Real-Time-Query_Expansion_amd_Topic-Tagging](https://github.com/aditya-kg/Real-Time-Query_Expansion_amd_Topic-Tagging)** | Real-time query expansion and topic-tagging pipeline |
 </sub>
 
 </div>
@@ -255,22 +255,5 @@ May 2024 – Sep 2024   IIT Kanpur                        Summer Research Intern
 - 📜 **Deep Learning Specialization** — DeepLearning.AI / Coursera
 - 📜 **Machine Learning Specialization** — Andrew Ng / Coursera
 - 📜 **Generative AI with LLMs** — DeepLearning.AI / AWS
-
-</div>
-
----
-
-<div align="center">
-
-### 📫 Let's connect
-
-<a href="mailto:adityaguru.official@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/adityaguru/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://adityaguru.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://scholar.google.com/citations?user=4UAtjHwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:08090a&height=100&section=footer" width="100%"/>
 
 </div>
