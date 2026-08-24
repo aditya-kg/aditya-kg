@@ -98,8 +98,10 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 
 ## `~/` contribution activity
 
-<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
-
+<img src="assets/metrics.isocalendar.svg"
+     width="90%"
+     alt="3D isometric contribution calendar">
+     
 <br><br>
 
 <picture>
