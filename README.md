@@ -47,18 +47,13 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 
 ## `~/` toolbox
 
-<!-- Research/toolbox radar: local SVG, no external API dependency -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-radar.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/toolbox-radar.svg">
-  <img src="assets/toolbox-radar.svg" width="470" alt="Research Toolbox radar">
-</picture>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,gcp&perline=7" alt="Python PyTorch TensorFlow Git GitHub Docker Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" />
+</p>
 
 <br>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,git,github,docker,gcp,jupyter,latex&perline=9" alt="tech stack">
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/TRL-6366F1?style=flat-square">
@@ -89,7 +84,7 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/research-footprint-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/research-footprint-light.svg">
-  <img src="assets/research-footprint-dark.svg" width="400" alt="research footprint">
+  <img src="assets/research-footprint-dark.svg" width="400" alt="research footprint radar">
 </picture>
 </td>
 </tr>
@@ -127,9 +122,14 @@ I work on **LLM robustness, reasoning, interpretability, inference efficiency, a
   <img src="assets/card-stats-dark.svg" width="480" alt="GitHub statistics">
 </picture>
 
-<br>
+<br><br>
 
-<img src="assets/metrics.languages.svg" width="520" alt="most used languages">
+<!-- Replaces the sparse language chart with a research library/framework footprint. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/libraries-radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/libraries-radar-light.svg">
+  <img src="assets/libraries-radar-dark.svg" width="420" alt="libraries and frameworks radar">
+</picture>
 
 <br><br>
 
@@ -209,15 +209,19 @@ May 2024 – Sep 2024   IIT Kanpur                        Summer Research Intern
 </tr>
 </table>
 
-<sub>
+<div align="center">
 
-| project | description |
-|---|---|
-| **[ObfusQAte](https://github.com/aditya-kg/ObfusQAte)** | LLM robustness under semantic obfuscation |
-| **[LogiFus-NumSeries-Website](https://github.com/aditya-kg/LogiFus-NumSeries-Website)** | Interactive reasoning / benchmark explorer |
-| **[OCR-project](https://github.com/aditya-kg/OCR-project)** | Practical OCR application |
-| **[Real-Time-Query_Expansion_amd_Topic-Tagging](https://github.com/aditya-kg/Real-Time-Query_Expansion_amd_Topic-Tagging)** | Real-time query expansion and topic-tagging pipeline |
-</sub>
+### `~/` project index
+
+<table>
+<tr><th align="center">project</th><th align="center">description</th></tr>
+<tr><td align="center"><b><a href="https://github.com/aditya-kg/ObfusQAte">ObfusQAte</a></b></td><td align="center">LLM robustness under semantic obfuscation</td></tr>
+<tr><td align="center"><b><a href="https://github.com/aditya-kg/LogiFus-NumSeries-Website">LogiFus-NumSeries-Website</a></b></td><td align="center">Interactive reasoning / benchmark explorer</td></tr>
+<tr><td align="center"><b><a href="https://github.com/aditya-kg/OCR-project">OCR-project</a></b></td><td align="center">Practical OCR application</td></tr>
+<tr><td align="center"><b><a href="https://github.com/aditya-kg/Real-Time-Query_Expansion_amd_Topic-Tagging">Real-Time-Query_Expansion_amd_Topic-Tagging</a></b></td><td align="center">Real-time query expansion and topic-tagging pipeline</td></tr>
+</table>
+
+</div>
 
 ---
 
