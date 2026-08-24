@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language are fetched live by the workflow; descriptions here override GitHub descriptions.",
+  "projects": [
+    {
+      "repo": "ObfusQAte",
+      "description": "Benchmarking LLM robustness under semantic obfuscation with adversarially transformed question-answering tasks."
+    },
+    {
+      "repo": "LogiFus-NumSeries-Website",
+      "description": "Interactive website for exploring logical obfuscation and number-series reasoning benchmarks."
+    },
+    {
+      "repo": "Palweb",
+      "description": "College web platform built with Flask and Streamlit, combining a practical web interface with data-driven utilities."
+    },
+    {
+      "repo": "OCR-project",
+      "description": "OCR application for extracting text from images, built around a practical Streamlit workflow."
+    }
+  ]
+}

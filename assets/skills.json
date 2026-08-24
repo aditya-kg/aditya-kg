@@ -1,0 +1,38 @@
+{
+  "title": "Research & Engineering",
+  "_comment": "Self-rated profile-focus values, 0-100. These describe areas of strength/focus rather than objective benchmarks.",
+  "axes": [
+    {
+      "label": "LLMs",
+      "value": 94
+    },
+    {
+      "label": "NLP",
+      "value": 92
+    },
+    {
+      "label": "Inference",
+      "value": 90
+    },
+    {
+      "label": "RAG",
+      "value": 89
+    },
+    {
+      "label": "PyTorch",
+      "value": 91
+    },
+    {
+      "label": "Evaluation",
+      "value": 90
+    },
+    {
+      "label": "RL / PPO",
+      "value": 82
+    },
+    {
+      "label": "Python",
+      "value": 95
+    }
+  ]
+}
