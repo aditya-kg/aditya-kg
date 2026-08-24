@@ -14,8 +14,8 @@
       "description": "College web platform built with Flask and Streamlit, combining a practical web interface with data-driven utilities."
     },
     {
-      "repo": "OCR-project",
-      "description": "OCR application for extracting text from images, built around a practical Streamlit workflow."
+      "repo": "Real-Time-Query_Expansion_amd_Topic-Tagging",
+      "description": "Real-time query expansion and topic-tagging pipeline for search and information retrieval workflows."
     }
   ]
 }
